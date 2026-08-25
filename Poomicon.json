@@ -716,6 +716,18 @@
             "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Google_Suite/YouTube.png"
         },
         {
+            "name": "Airport_Subscription",
+            "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Airport_Subscription.png"
+        },
+        {
+            "name": "Home_Node",
+            "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Home_Node.png"
+        },
+        {
+            "name": "Self_Hosted_VPS",
+            "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Self_Hosted_VPS.png"
+        },
+        {
             "name": "Rectangular / Abkhazia",
             "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Rectangular/Abkhazia.png"
         },
