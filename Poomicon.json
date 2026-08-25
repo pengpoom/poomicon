@@ -720,6 +720,14 @@
             "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Airport_Subscription.png"
         },
         {
+            "name": "Catch_All",
+            "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Catch_All.png"
+        },
+        {
+            "name": "Direct_Connection",
+            "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Direct_Connection.png"
+        },
+        {
             "name": "Home_Node",
             "url": "https://raw.githubusercontent.com/pengpoom/poomicon/master/Node_Source/Home_Node.png"
         },
